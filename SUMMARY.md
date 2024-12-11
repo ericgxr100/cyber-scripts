@@ -14,6 +14,7 @@
 ## MY SCRIPTS
 
 * [Backdoor](my-scripts/backdoor.md)
+* [Page](my-scripts/page.md)
 
 ## Certificates
 
